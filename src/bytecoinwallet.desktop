@@ -1,10 +1,10 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=Bytecoin Wallet
-Comment=Bytecoin wallet
-Exec=bytecoinwallet %U
+Name=VluCash Wallet
+Comment=VluCash wallet
+Exec=vlucashwallet %U
 Terminal=false
 Type=Application
-Icon=bytecoin
+Icon=vluvash
 MimeType=x-scheme-handler/bytecoin;
 Categories=Office;Finance;
